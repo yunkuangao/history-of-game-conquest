@@ -1,45 +1,45 @@
-const header = 'Welcome to this wonderful example timeline.';
-const footer = 'A footer goes here.';
+const header = '游戏征服史';
+const footer = '等待你的加入';
 const entries = [
   {
-    id: 'cat',
-    categories: ['cat'],
+    id: 'Ark',
+    categories: ['game'],
     color: 'green',
-    faicon: 'cat',
+    faicon: 'gamepad',
     datetime: '2021-01-01 05:00',
-    title: 'Cats are very good',
+    title: 'Ark/方舟征服史',
     image: {
-      link: 'http://placekitten.com',
-      src: 'http://placekitten.com/200/300',
-      alt: 'A placeholder kitten',
-      caption: 'Kitten!',
+      link: 'https://playark.com/ark-survival-evolved/',
+      src: 'https://yunkuangao.com/images/ark_bg.jpeg',
+      alt: 'Ark/方舟',
+      caption: '驾驭你的恐龙!',
     },
-    body: "The best thing in the universe is a cardboard box. Chirp at birds catasstrophe for meowwww for hiding behind the couch until lured out by a feathery toy for morning beauty routine of licking self sugar, my siamese, stalks me (in a good way), day and night lick the other cats. Pushed the mug off the table shove bum in owner's face like camera lens or tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad and grass smells good, licks your face, but hiiiiiiiiii feed me now.",
+    body: `方舟征服史`,
     links: [
       {
-        href: 'https://en.wikipedia.org/wiki/Cat',
-        linkText: 'Cat',
+        href: 'https://ark.fandom.com/wiki/ARK_Survival_Evolved_Wiki',
+        linkText: 'Ark',
       },
     ],
   },
   {
-    id: 'dog',
-    categories: ['dog'],
+    id: 'Valheim',
+    categories: ['game'],
     color: 'green',
-    faicon: 'dog',
+    faicon: 'gamepad',
     datetime: '2021-05-01 23:55',
-    title: 'Puppies are great too',
+    title: 'Valheim/英灵神殿征服史',
     image: {
-      link: 'http://place-puppy.com',
-      src: 'https://place-puppy.com/300x300',
-      alt: 'A placeholder puppy',
-      caption: 'Puppy!',
+      link: 'https://www.valheimgame.com/',
+      src: 'https://yunkuangao.com/images/valheim_bg.webp',
+      alt: 'Valheim/英灵神殿',
+      caption: '谁不想当一个真正的战神!',
     },
-    body: 'Doggo ipsum sub woofer smol wow very biscit aqua doggo pupper dat tungg tho big ol pupper, very jealous pupper mlem heckin angery woofer very jealous pupper. Blep waggy wags long doggo, corgo. Tungg wow such tempt mlem very jealous pupper boofers lotsa pats, snoot smol big ol ruff doge super chub, long doggo heckin good boys and girls h*ck heck. Shoober blop many pats borkf, such treat. Big ol what a nice floof long water shoob wrinkler heck sub woofer, pupper porgo wow very biscit.',
+    body: `英灵神殿征服史`,
     links: [
       {
-        href: 'https://en.wikipedia.org/wiki/Dog',
-        linkText: 'Dog',
+        href: 'https://valheim.fandom.com/wiki/Valheim_Wiki',
+        linkText: 'Valheim',
       },
     ],
   },
