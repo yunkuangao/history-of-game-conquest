@@ -14,11 +14,18 @@ const entries = [
       alt: 'Ark/方舟',
       caption: '驾驭你的恐龙!',
     },
-    body: `方舟征服史`,
+    body: `初到这个陌生的世界，我们对一切都陌生，生存的本能让我们知道，先活下去......
+<br/>经过一段时间,我们发现这个世界有许多没见过的生物，我们称之为——龙 ，我们并与部分龙交好，人与龙共同的生活着,直到某一天，我们发现我们附近来了一只体型巨大的霸王龙，经过一番苦战我们捕获了霸王龙，并开始对这个世界好奇了起来，最后我们选择在这个世界游历，了解我们处在一个什么环境中~
+<br/>某一天，我们遭遇了天空之主-飞龙，它追逐了我们很久，迫不得已，只能牺牲我们饲养的迅猛龙，掩护我们逃跑……
+历经许久，我们重整旗鼓，捕获了阿根廷之鹰，并且找到了那条龙的栖息地，我们突袭飞龙窟，席卷了里面所有的飞龙蛋，并杀死了部分飞龙夺取了飞龙奶，在这一次初次交锋中，我们还发现了一只不同寻常的飞龙，他比一般的飞龙强大的多，我们称之为龙帝（因为拿到了飞龙蛋，我们太激动了，邻居找了警察蜀黍给我们做了思想工作）`,
     links: [
       {
-        href: 'https://ark.fandom.com/wiki/ARK_Survival_Evolved_Wiki',
-        linkText: 'Ark',
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/snail',
+        linkText: '蜗牛',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/Undying_Xeon',
+        linkText: '不死志强',
       },
     ],
   },
@@ -27,7 +34,7 @@ const entries = [
     categories: ['game'],
     color: 'green',
     faicon: 'gamepad',
-    datetime: '2021-05-01 23:55',
+    datetime: '2022-10-16 23:55',
     title: 'Valheim/英灵神殿征服史',
     image: {
       link: 'https://www.valheimgame.com/',
@@ -35,11 +42,61 @@ const entries = [
       alt: 'Valheim/英灵神殿',
       caption: '谁不想当一个真正的战神!',
     },
-    body: `英灵神殿征服史`,
+    body: `英灵战士们的灵魂被女武神百度到了英灵神殿--北境第十大神界，然而，这里并不是乐土，而是拥有着一群混沌之物和古老的众神之敌，作为秩序的守护者，奥丁的忠诚战士，开始了新的征程。`,
     links: [
       {
-        href: 'https://valheim.fandom.com/wiki/Valheim_Wiki',
-        linkText: 'Valheim',
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/yunkuangao',
+        linkText: '云狂傲',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/snail',
+        linkText: '蜗牛',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/Undying_Xeon',
+        linkText: '不死志强',
+      },
+    ],
+  },
+  {
+    id: 'Craftopia',
+    categories: ['game'],
+    color: 'green',
+    faicon: 'gamepad',
+    datetime: '2022-10-16 23:55',
+    title: 'Craftopia/创世幻想乡征服史',
+    image: {
+      link: 'https://www.pocketpair.jp/craftopia',
+      src: 'https://yunkuangao.com/images/Craftopia_bg.webp',
+      alt: 'Craftopia/创世幻想乡',
+      caption: '美丽的家园，激情的战斗，还在等什么!',
+    },
+    body: `创世幻想乡征服史`,
+    links: [
+      {
+        href: 'https://craftopiagame.fandom.com/wiki/Craftopia',
+        linkText: 'Craftopia',
+      },
+    ],
+  },
+  {
+    id: 'Satisfactory',
+    categories: ['game'],
+    color: 'green',
+    faicon: 'gamepad',
+    datetime: '2022-11-28 23:55',
+    title: 'Satisfactory/幸福工厂征服史',
+    image: {
+      link: 'https://www.satisfactorygame.com/',
+      src: 'https://yunkuangao.com/images/saticfactory_bg.png',
+      alt: 'Satisfactory/幸福工厂',
+      caption: '工厂！工厂！工厂！',
+    },
+    body: `幸福工厂征服史`,
+    links: [
+      {
+        href: 'https://satisfactory.fandom.com/wiki/Satisfactory_Wiki',
+        linkText: 'Satisfactory',
       },
     ],
   },
