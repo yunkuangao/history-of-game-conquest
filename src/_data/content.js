@@ -25,7 +25,15 @@ const entries = [
       },
       {
         href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/Undying_Xeon',
-        linkText: '不死志强',
+        linkText: '不死至强',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/luna',
+        linkText: '月神',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/MOMOMO',
+        linkText: 'MOMOMO',
       },
     ],
   },
@@ -54,7 +62,15 @@ const entries = [
       },
       {
         href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/Undying_Xeon',
-        linkText: '不死志强',
+        linkText: '不死至强',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/luna',
+        linkText: '月神',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/MOMOMO',
+        linkText: 'MOMOMO',
       },
     ],
   },
@@ -74,8 +90,24 @@ const entries = [
     body: `创世幻想乡征服史`,
     links: [
       {
-        href: 'https://craftopiagame.fandom.com/wiki/Craftopia',
-        linkText: 'Craftopia',
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/yunkuangao',
+        linkText: '云狂傲',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/snail',
+        linkText: '蜗牛',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/Undying_Xeon',
+        linkText: '不死至强',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/luna',
+        linkText: '月神',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/MOMOMO',
+        linkText: 'MOMOMO',
       },
     ],
   },
@@ -95,8 +127,24 @@ const entries = [
     body: `幸福工厂征服史`,
     links: [
       {
-        href: 'https://satisfactory.fandom.com/wiki/Satisfactory_Wiki',
-        linkText: 'Satisfactory',
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/yunkuangao',
+        linkText: '云狂傲',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/snail',
+        linkText: '蜗牛',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/Undying_Xeon',
+        linkText: '不死至强',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/luna',
+        linkText: '月神',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/MOMOMO',
+        linkText: 'MOMOMO',
       },
     ],
   },
