@@ -6,7 +6,7 @@ const entries = [
     categories: ['game'],
     color: 'green',
     faicon: 'gamepad',
-    datetime: '2021-01-01 05:00',
+    datetime: '2021-01-01',
     title: 'Ark/方舟征服史',
     image: {
       link: 'https://playark.com/ark-survival-evolved/',
@@ -28,10 +28,6 @@ const entries = [
         linkText: '不死至强',
       },
       {
-        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/luna',
-        linkText: '月神',
-      },
-      {
         href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/MOMOMO',
         linkText: 'MOMOMO',
       },
@@ -42,7 +38,7 @@ const entries = [
     categories: ['game'],
     color: 'green',
     faicon: 'gamepad',
-    datetime: '2022-10-16 23:55',
+    datetime: '2022-10-16',
     title: 'Valheim/英灵神殿征服史',
     image: {
       link: 'https://www.valheimgame.com/',
@@ -79,7 +75,7 @@ const entries = [
     categories: ['game'],
     color: 'green',
     faicon: 'gamepad',
-    datetime: '2022-10-16 23:55',
+    datetime: '2022-10-16',
     title: 'Craftopia/创世幻想乡征服史',
     image: {
       link: 'https://www.pocketpair.jp/craftopia',
@@ -116,7 +112,7 @@ const entries = [
     categories: ['game'],
     color: 'green',
     faicon: 'gamepad',
-    datetime: '2022-11-28 23:55',
+    datetime: '2022-11-28',
     title: 'Satisfactory/幸福工厂征服史',
     image: {
       link: 'https://www.satisfactorygame.com/',
@@ -124,7 +120,11 @@ const entries = [
       alt: 'Satisfactory/幸福工厂',
       caption: '工厂！工厂！工厂！',
     },
-    body: `幸福工厂征服史`,
+    body: `自从公司把我们丢到这星球上后，就没遇到过什么好事，不是毒气就是泥头怪，幸好我们有几根电棍和自动化采矿机，不然可能无法在这星球上存活下来。
+<a href="https://codenames.fandom.com/zh/wiki/Codenames_Wiki/MOMOMO" target="_blank"><em><strong>MOMOMO</strong></em></a>带我们找到了一片高产矿区，算是打下了我们的第一站，但首要问题是我们如何发电，幸好附近不远处有煤炭矿区，不然靠我们砍木头发电那可能直接就破产了。
+在搞好基础电力后，我们向外拓展了地区，在<a href="https://codenames.fandom.com/zh/wiki/Codenames_Wiki/yunkuangao" target="_blank"><em><strong>云狂傲</strong></em></a>去沙漠地区勘察过后，发现沙漠不适合我们的发展，最后还是在初始基地附近的水池旁建立太空电梯，这群黑心的资本家，把我们丢下来后就不管不顾，还得靠我们送物资才能换取科技图纸。
+<a href="https://codenames.fandom.com/zh/wiki/Codenames_Wiki/snail" target="_blank"><em><strong>蜗牛</strong></em></a>是我们当中摸鱼最多的人，当我们在外面拓展的时候，他在基地喝咖啡刷抖音，真不知道这外星球是怎么连上网的，可能这就是量子科技吧。
+`,
     links: [
       {
         href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/yunkuangao',
