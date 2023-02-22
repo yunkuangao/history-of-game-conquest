@@ -151,9 +151,9 @@ const entries = [
 ];
 
 // Page details
-const pageTitle = 'Static timeline generator'; // The title of the page that shows in the browser tab
-const pageDescription = 'A super fancy timeline'; // The description of the page for search engines
-const pageAuthor = 'Jane Doe'; // Your name
+const pageTitle = '游戏征服史'; // The title of the page that shows in the browser tab
+const pageDescription = '这就是我们的征程'; // The description of the page for search engines
+const pageAuthor = '云狂傲'; // Your name
 
 // DON'T EDIT BELOW THIS LINE! --------------------------------------------------------------------
 const getFilters = (entries) => {
