@@ -10,9 +10,9 @@ const sentenceCase = function (str) {
 
 const humanizeDate = function (datetime, date) {
   const m = moment(datetime || date);
-  if (datetime) {
-    return m.format('LLL');
-  }
+  // if (datetime) {
+  //   return m.format('LLL');
+  // }
   return m.format('LL');
 };
 
