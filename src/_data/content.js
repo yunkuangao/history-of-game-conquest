@@ -148,6 +148,43 @@ const entries = [
       },
     ],
   },
+  {
+    id: 'sonsofthforest',
+    categories: ['game'],
+    color: 'green',
+    faicon: 'gamepad',
+    datetime: '2023-03-03',
+    title: 'Sons Of The Forest/森林之子征服史',
+    image: {
+      link: 'https://endnightgames.com/',
+      src: 'https://usc1.contabostorage.com/c2e495d7890844d392e8ec0c6e5d77eb:image/sons-of-the-forest-bg.jpeg',
+      alt: 'Sons Of The Forest/森林之子',
+      caption: '建造？伐木？战斗？应有尽有！',
+    },
+    body: ``,
+    links: [
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/yunkuangao',
+        linkText: '云狂傲',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/snail',
+        linkText: '蜗牛',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/Undying_Xeon',
+        linkText: '不死至强',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/luna',
+        linkText: '月神',
+      },
+      {
+        href: 'https://codenames.fandom.com/zh/wiki/Codenames_Wiki/MOMOMO',
+        linkText: 'MOMOMO',
+      },
+    ],
+  },
 ];
 
 // Page details
