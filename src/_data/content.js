@@ -10,7 +10,7 @@ const entries = [
     title: 'Ark/方舟征服史',
     image: {
       link: 'https://playark.com/ark-survival-evolved/',
-      src: 'https://yunkuangao.com/images/ark_bg.jpeg',
+      src: 'https://usc1.contabostorage.com/c2e495d7890844d392e8ec0c6e5d77eb:image/ark_bg.jpeg',
       alt: 'Ark/方舟',
       caption: '驾驭你的恐龙!',
     },
@@ -42,7 +42,7 @@ const entries = [
     title: 'Valheim/英灵神殿征服史',
     image: {
       link: 'https://www.valheimgame.com/',
-      src: 'https://yunkuangao.com/images/valheim_bg.webp',
+      src: 'https://usc1.contabostorage.com/c2e495d7890844d392e8ec0c6e5d77eb:image/valheim_bg.webp',
       alt: 'Valheim/英灵神殿',
       caption: '谁不想当一个真正的战神!',
     },
@@ -79,7 +79,7 @@ const entries = [
     title: 'Craftopia/创世幻想乡征服史',
     image: {
       link: 'https://www.pocketpair.jp/craftopia',
-      src: 'https://yunkuangao.com/images/Craftopia_bg.webp',
+      src: 'https://usc1.contabostorage.com/c2e495d7890844d392e8ec0c6e5d77eb:image/Craftopia_bg.webp',
       alt: 'Craftopia/创世幻想乡',
       caption: '美丽的家园，激情的战斗，还在等什么!',
     },
@@ -116,7 +116,7 @@ const entries = [
     title: 'Satisfactory/幸福工厂征服史',
     image: {
       link: 'https://www.satisfactorygame.com/',
-      src: 'https://yunkuangao.com/images/saticfactory_bg.png',
+      src: 'https://usc1.contabostorage.com/c2e495d7890844d392e8ec0c6e5d77eb:image/saticfactory_bg.png',
       alt: 'Satisfactory/幸福工厂',
       caption: '工厂！工厂！工厂！',
     },
@@ -190,7 +190,7 @@ const entries = [
 // Page details
 const pageTitle = '游戏征服史'; // The title of the page that shows in the browser tab
 const pageDescription = '这就是我们的征程'; // The description of the page for search engines
-const pageAuthor = '云狂傲'; // Your name
+const pageAuthor = 'yun'; // Your name
 
 // DON'T EDIT BELOW THIS LINE! --------------------------------------------------------------------
 const getFilters = (entries) => {
